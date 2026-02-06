@@ -3,6 +3,12 @@
         <a href="mailto:oddshellnick.programming@gmail.com">
             <img src="https://img.shields.io/badge/Gmail%2DGmail?style=flat&logo=gmail&color=%23ffffff">
         </a>
+        <a href="https://discord.gg/4Fcs8VqKWU">
+            <img src="https://img.shields.io/badge/Discord%2DDiscord?style=flat&logo=discord&color=%23090b72">
+        </a>
+        <a href="https://t.me/osn_development">
+            <img src="https://img.shields.io/badge/Telegram%2DTelegram?style=flat&logo=telegram&color=%23165c80">
+        </a>
         <a href="https://pypi.org/user/oddshellnick/">
             <img src="https://img.shields.io/badge/PyPI-oddshellnick-blue?style=flat-square&logo=pypi&logoColor=white">
         </a>
